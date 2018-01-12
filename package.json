@@ -1,0 +1,15 @@
+{
+  "name": "PhpStorm-Darcula-syntax",
+  "theme": "PhpStorm-Darcula-syntax",
+  "version": "0.0.1",
+  "description": "A Theme like PhpStorm's Darcula theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/chochik-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
